@@ -10,6 +10,11 @@
       "StackName": "amplify-fproject-dev-213125",
       "StackId": "arn:aws:cloudformation:sa-east-1:831120792053:stack/amplify-fproject-dev-213125/86b5a6f0-4bf0-11ee-97e2-0af257c78ed8",
       "AmplifyAppId": "d3bvzel6iogxa8"
+    },
+    "categories": {
+      "api": {
+        "fproject": {}
+      }
     }
   }
 }
